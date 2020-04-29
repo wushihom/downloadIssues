@@ -1,0 +1,118 @@
+1588131977234	geckodriver	INFO	Listening on 127.0.0.1:49882
+1588131980304	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.CZbYyb2f02C9
+1588131980311	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588131980426	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49900
+1588131981494	Marionette	INFO	Listening on port 49900
+1588131982454	Marionette	INFO	startBrowser d18acdb8-a616-4760-be8b-85dc6f235e26
+1588131982461	Marionette	INFO	sendAsync d18acdb8-a616-4760-be8b-85dc6f235e26
+1588131982470	Marionette	INFO	sendAsync d18acdb8-a616-4760-be8b-85dc6f235e26
+1588131982547	Marionette	INFO	sendAsync d18acdb8-a616-4760-be8b-85dc6f235e26
+[Child 17520] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 17520] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1588132002282	geckodriver	INFO	Listening on 127.0.0.1:49982
+1588132005351	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.qHzVKk1VQeeG
+1588132005358	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588132005369	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50002
+1588132005883	Marionette	INFO	Listening on port 50002
+1588132007378	Marionette	INFO	startBrowser 590c648c-c0b2-4bc1-a88f-d83b62fb15bc
+1588132007383	Marionette	INFO	sendAsync 590c648c-c0b2-4bc1-a88f-d83b62fb15bc
+1588132096310	geckodriver	INFO	Listening on 127.0.0.1:50175
+1588132099408	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.z5zl6tRf4WCd
+1588132099418	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588132099450	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50189
+1588132100287	Marionette	INFO	Listening on port 50189
+1588132101460	Marionette	INFO	startBrowser a3e24e0b-144a-422a-b0d6-61339f0a0cc4
+1588132101467	Marionette	INFO	sendAsync a3e24e0b-144a-422a-b0d6-61339f0a0cc4
+1588145391625	geckodriver	INFO	Listening on 127.0.0.1:51515
+1588145394712	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.tAg4LeOdKNbS
+1588145394719	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588145394953	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51523
+1588145395505	Marionette	INFO	Listening on port 51523
+[Child 14268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 14268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1588145396961	Marionette	INFO	startBrowser 52402526-63a8-45b9-a93b-5a734c9b6bac
+1588145396965	Marionette	INFO	sendAsync 52402526-63a8-45b9-a93b-5a734c9b6bac
+1588145557527	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1588145591470	geckodriver	INFO	Listening on 127.0.0.1:51645
+1588145594547	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.ctopkESPEvkS
+1588145594556	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588145594568	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51653
+1588145595068	Marionette	INFO	Listening on port 51653
+[Child 14712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1588145596579	Marionette	INFO	startBrowser 670bfeec-174b-48c2-a7d8-597743282cb0
+1588145596592	Marionette	INFO	sendAsync 670bfeec-174b-48c2-a7d8-597743282cb0
+1588145690371	geckodriver	INFO	Listening on 127.0.0.1:51718
+1588145693452	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.znIk7AkrvOQF
+1588145693461	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588145693473	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51731
+1588145693940	Marionette	INFO	Listening on port 51731
+1588145695488	Marionette	INFO	startBrowser 05a706ee-4bd0-4f58-a44f-4b31ebe87de5
+1588145695494	Marionette	INFO	sendAsync 05a706ee-4bd0-4f58-a44f-4b31ebe87de5
+1588145808866	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.QTLYHnlaG1LA
+1588145706559	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588145706582	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51761
+1588145707066	Marionette	INFO	Listening on port 51761
+[Child 19744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 19744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1588145708597	Marionette	INFO	startBrowser f6002700-44fc-45f2-a800-46d021b32d22
+1588145708603	Marionette	INFO	sendAsync f6002700-44fc-45f2-a800-46d021b32d22
+1588146492893	geckodriver	INFO	Listening on 127.0.0.1:52200
+1588146495963	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.sJe48B67ntT9
+1588146495973	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588146495994	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52209
+1588146496546	Marionette	INFO	Listening on port 52209
+1588146498005	Marionette	INFO	startBrowser e7a8e260-96c6-44ae-bb01-38315f002f58
+1588146498017	Marionette	INFO	sendAsync e7a8e260-96c6-44ae-bb01-38315f002f58
+1588146899260	geckodriver	INFO	Listening on 127.0.0.1:52432
+1588146902327	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.WOPvuf5zzhKp
+1588146902334	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588146902356	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52441
+1588146902820	Marionette	INFO	Listening on port 52441
+[Child 6348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 6348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1588146904373	Marionette	INFO	startBrowser 6321b509-1837-46e7-974f-48087e6535f5
+1588146904387	Marionette	INFO	sendAsync 6321b509-1837-46e7-974f-48087e6535f5
+1588147019523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.A6XkY6cgPvJd
+1588146989490	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588146989501	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52508
+1588146989967	Marionette	INFO	Listening on port 52508
+1588146991508	Marionette	INFO	startBrowser cf3aa909-f0e8-4386-962b-220292f81502
+1588146991514	Marionette	INFO	sendAsync cf3aa909-f0e8-4386-962b-220292f81502
+1588153134636	geckodriver	INFO	Listening on 127.0.0.1:56215
+1588153137725	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.V3bR3OanOF2T
+1588153137733	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588153137811	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56225
+1588153138376	Marionette	INFO	Listening on port 56225
+1588153139828	Marionette	INFO	startBrowser f1cc70c8-a423-44e1-a17d-9ed8eee177de
+1588153139840	Marionette	INFO	sendAsync f1cc70c8-a423-44e1-a17d-9ed8eee177de
+1588153140097	Marionette	INFO	sendAsync f1cc70c8-a423-44e1-a17d-9ed8eee177de
+1588153140365	Marionette	INFO	sendAsync f1cc70c8-a423-44e1-a17d-9ed8eee177de
+1588153294391	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 19276] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 19276] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+ing to Marionette on localhost:56445
+1588153321949	Marionette	INFO	Listening on port 56445
+1588153323491	Marionette	INFO	startBrowser e3a5592d-2c8b-4557-a53e-e66d5f680258
+1588153323497	Marionette	INFO	sendAsync e3a5592d-2c8b-4557-a53e-e66d5f680258
+1588153323728	Marionette	INFO	sendAsync e3a5592d-2c8b-4557-a53e-e66d5f680258
+1588153325615	Marionette	INFO	sendAsync e3a5592d-2c8b-4557-a53e-e66d5f680258
+1588153325626	Marionette	INFO	sendAsync e3a5592d-2c8b-4557-a53e-e66d5f680258
+JavaScript error: https://issues.apache.org/jira/s/bdc2e75525065c753a3ce5d310d044cf-CDN/q87klf/803005/bdb26e53b5dabdebb2a74849ead50650/0a4716d29b2d5b1bdcdb168b4efc119e/_/download/contextbatch/js/_super/batch.js?locale=en-UK, line 2917: NS_ERROR_NOT_INITIALIZED: 
+1588153436963	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1588153440078	geckodriver	INFO	Listening on 127.0.0.1:56556
+1588153443182	mozprofile::profile	INFO	Using profile path C:\Users\Lenovo\AppData\Local\Temp\rust_mozprofile.031doRxbfNfn
+1588153443191	geckodriver::marionette	INFO	Starting browser D:\Mozilla Firefox\firefox.exe with args []
+1588153443215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56567
+1588153443701	Marionette	INFO	Listening on port 56567
+[Child 17116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+[Child 17116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
+1588153445222	Marionette	INFO	startBrowser 643185df-f23d-41e2-94b2-72de7683dfba
+1588153445228	Marionette	INFO	sendAsync 643185df-f23d-41e2-94b2-72de7683dfba
+1588153445462	Marionette	INFO	sendAsync 643185df-f23d-41e2-94b2-72de7683dfba
+1588153445724	Marionette	INFO	sendAsync 643185df-f23d-41e2-94b2-72de7683dfba
+1588153447391	Marionette	INFO	sendAsync 643185df-f23d-41e2-94b2-72de7683dfba
+1588153447399	Marionette	INFO	sendAsync 643185df-f23d-41e2-94b2-72de7683dfba
+JavaScript error: https://issues.apache.org/jira/s/bdc2e75525065c753a3ce5d310d044cf-CDN/q87klf/803005/bdb26e53b5dabdebb2a74849ead50650/0a4716d29b2d5b1bdcdb168b4efc119e/_/download/contextbatch/js/_super/batch.js?locale=en-UK, line 2917: NS_ERROR_NOT_INITIALIZED: 
+[Child 18344] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-beta-w64-0000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 343
