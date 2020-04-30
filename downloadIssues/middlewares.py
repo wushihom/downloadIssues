@@ -14,7 +14,6 @@ class DownloadissuesSpiderMiddleware(object):
         # spider: 爬虫文件中对应的爬虫类 IssuesSpider 的实例对象, 可以通过这个参数拿到 IssuesSpider 中的一些属性或方法
         
         row_response=spider.browser.get(url=request.url)
-        time.sleep(5)    # 等待加载,  可以用显示等待来优化.
         # row_response= spider.browser.page_source
         return HtmlResponse(url=spider.browser.current_url,body=row_response,encoding="utf8",request=request)   # 参数url指当前浏览器访问的url(通过current_url方法获取), 在这里参数url也可以用request.url
 
